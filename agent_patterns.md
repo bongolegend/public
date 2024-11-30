@@ -51,8 +51,9 @@ flowchart LR
 Often, users don't write descriptive prompts, and as a result they get very generic responses. To address this problem, this pattern imitates the human behavior of asking clarifying questions before attempting to answer the question. The LLM can be told to do so via the system prompt.
 
 ### Research
-A 2024 study did not find an improvement in results using a question clarifier. Bizarre. I need to access the article to see how they were testing this, as it flies in the face of conventional wisdom. (source)[https://link.springer.com/chapter/10.1007/978-3-031-61572-6_6]
-A 2023 study included a few shot example of determining whether a user prompt needs to be disambiguated. (source)[https://arxiv.org/abs/2212.07769]
+A 2024 study did not find an improvement in results using a question clarifier. Bizarre. I need to access the article to see how they were testing this, as it flies in the face of conventional wisdom. [springer-link](https://link.springer.com/chapter/10.1007/978-3-031-61572-6_6)
+
+A 2023 study included a few shot example of determining whether a user prompt needs to be disambiguated. [arxiv](https://arxiv.org/abs/2212.07769)
 
 <br>
 <br>
